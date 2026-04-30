@@ -1,0 +1,11 @@
+feature,importance
+priority_Critical,0.182
+sla_breach_flag,0.161
+case_age_days,0.137
+touchpoints,0.121
+resolution_time_hours,0.113
+priority_High,0.093
+case_type_Integration,0.071
+high_touch_flag,0.052
+aged_case_flag,0.044
+channel_Phone,0.026

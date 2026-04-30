@@ -1,0 +1,217 @@
+case_id,case_month,customer_segment,channel,case_type,priority,case_age_days,touchpoints,sla_breach_flag,resolution_time_hours,experiment_group,escalated_flag
+CASE0001,2025-10-01,Mid-Market,Phone,Billing,High,15,5,1,107,Treatment,0
+CASE0002,2025-10-01,Small Business,Email,Data Quality,Critical,17,6,1,139,Control,1
+CASE0003,2025-10-01,Enterprise,Phone,Technical,Low,14,5,0,102,Treatment,0
+CASE0004,2025-10-01,Mid-Market,Email,Integration,Medium,16,6,1,134,Control,0
+CASE0005,2025-10-01,Small Business,Phone,Access,High,5,2,0,27,Treatment,0
+CASE0006,2025-10-01,Enterprise,Email,Billing,Critical,7,3,0,59,Control,0
+CASE0007,2025-10-01,Mid-Market,Phone,Data Quality,Low,4,2,0,40,Treatment,0
+CASE0008,2025-10-01,Small Business,Email,Technical,Medium,6,3,0,54,Control,0
+CASE0009,2025-10-01,Enterprise,Phone,Integration,High,13,6,1,101,Treatment,0
+CASE0010,2025-10-01,Mid-Market,Email,Access,Critical,15,7,1,133,Control,1
+CASE0011,2025-10-01,Small Business,Phone,Billing,Low,12,6,0,96,Treatment,0
+CASE0012,2025-10-01,Enterprise,Email,Data Quality,Medium,14,0,0,82,Control,0
+CASE0013,2025-10-01,Mid-Market,Phone,Technical,High,21,3,1,129,Treatment,0
+CASE0014,2025-10-01,Small Business,Email,Integration,Critical,5,4,0,53,Control,0
+CASE0015,2025-10-01,Enterprise,Phone,Access,Low,2,3,0,34,Treatment,0
+CASE0016,2025-10-01,Mid-Market,Email,Billing,Medium,4,4,0,48,Control,0
+CASE0017,2025-10-01,Small Business,Phone,Data Quality,High,11,7,1,95,Treatment,0
+CASE0018,2025-10-01,Enterprise,Email,Technical,Critical,13,8,1,127,Control,1
+CASE0019,2025-10-01,Mid-Market,Phone,Integration,Low,10,0,0,62,Treatment,0
+CASE0020,2025-10-01,Small Business,Email,Access,Medium,12,1,0,76,Control,0
+CASE0021,2025-10-01,Enterprise,Phone,Billing,High,19,4,1,123,Treatment,0
+CASE0022,2025-10-01,Mid-Market,Email,Data Quality,Critical,21,5,1,155,Control,1
+CASE0023,2025-10-01,Small Business,Phone,Technical,Low,0,4,0,28,Treatment,0
+CASE0024,2025-10-01,Enterprise,Email,Integration,Medium,2,5,0,42,Control,0
+CASE0025,2025-10-01,Mid-Market,Phone,Access,High,9,8,0,71,Treatment,0
+CASE0026,2025-10-01,Small Business,Email,Billing,Critical,11,2,1,93,Control,1
+CASE0027,2025-10-01,Enterprise,Phone,Data Quality,Low,8,1,0,56,Treatment,0
+CASE0028,2025-10-01,Mid-Market,Email,Technical,Medium,10,2,0,70,Control,0
+CASE0029,2025-10-01,Small Business,Phone,Integration,High,17,5,1,117,Treatment,0
+CASE0030,2025-10-01,Enterprise,Email,Access,Critical,19,6,1,149,Control,1
+CASE0031,2025-10-01,Mid-Market,Phone,Billing,Low,16,5,0,112,Treatment,0
+CASE0032,2025-10-01,Small Business,Email,Data Quality,Medium,0,6,0,36,Control,0
+CASE0033,2025-10-01,Enterprise,Phone,Technical,High,7,2,0,37,Treatment,0
+CASE0034,2025-10-01,Mid-Market,Email,Integration,Critical,9,3,0,69,Control,0
+CASE0035,2025-10-01,Small Business,Phone,Access,Low,6,2,0,50,Treatment,0
+CASE0036,2025-10-01,Enterprise,Email,Billing,Medium,8,3,0,64,Control,0
+CASE0037,2025-11-01,Small Business,Portal,Technical,Critical,16,6,1,134,Treatment,1
+CASE0038,2025-11-01,Enterprise,Chat,Integration,Low,13,5,0,97,Control,0
+CASE0039,2025-11-01,Mid-Market,Portal,Access,Medium,15,6,0,111,Treatment,0
+CASE0040,2025-11-01,Small Business,Chat,Billing,High,22,2,1,148,Control,1
+CASE0041,2025-11-01,Enterprise,Portal,Data Quality,Critical,6,3,0,54,Treatment,0
+CASE0042,2025-11-01,Mid-Market,Chat,Technical,Low,3,2,0,35,Control,0
+CASE0043,2025-11-01,Small Business,Portal,Integration,Medium,5,3,0,49,Treatment,0
+CASE0044,2025-11-01,Enterprise,Chat,Access,High,12,6,1,114,Control,1
+CASE0045,2025-11-01,Mid-Market,Portal,Billing,Critical,14,7,1,128,Treatment,1
+CASE0046,2025-11-01,Small Business,Chat,Data Quality,Low,11,6,0,91,Control,0
+CASE0047,2025-11-01,Enterprise,Portal,Technical,Medium,13,0,0,77,Treatment,0
+CASE0048,2025-11-01,Mid-Market,Chat,Integration,High,20,3,1,142,Control,1
+CASE0049,2025-11-01,Small Business,Portal,Access,Critical,22,4,1,156,Treatment,1
+CASE0050,2025-11-01,Enterprise,Chat,Billing,Low,1,3,0,29,Control,0
+CASE0051,2025-11-01,Mid-Market,Portal,Data Quality,Medium,3,4,0,43,Treatment,0
+CASE0052,2025-11-01,Small Business,Chat,Technical,High,10,7,1,108,Control,1
+CASE0053,2025-11-01,Enterprise,Portal,Integration,Critical,12,8,1,122,Treatment,1
+CASE0054,2025-11-01,Mid-Market,Chat,Access,Low,9,0,0,57,Control,0
+CASE0055,2025-11-01,Small Business,Portal,Billing,Medium,11,1,0,71,Treatment,0
+CASE0056,2025-11-01,Enterprise,Chat,Data Quality,High,18,4,1,136,Control,1
+CASE0057,2025-11-01,Mid-Market,Portal,Technical,Critical,20,5,1,150,Treatment,1
+CASE0058,2025-11-01,Small Business,Chat,Integration,Low,17,4,0,113,Control,0
+CASE0059,2025-11-01,Enterprise,Portal,Access,Medium,1,5,0,37,Treatment,0
+CASE0060,2025-11-01,Mid-Market,Chat,Billing,High,8,8,0,84,Control,1
+CASE0061,2025-11-01,Small Business,Portal,Data Quality,Critical,10,2,0,70,Treatment,0
+CASE0062,2025-11-01,Enterprise,Chat,Technical,Low,7,1,0,51,Control,0
+CASE0063,2025-11-01,Mid-Market,Portal,Integration,Medium,9,2,0,65,Treatment,0
+CASE0064,2025-11-01,Small Business,Chat,Access,High,16,5,1,130,Control,1
+CASE0065,2025-11-01,Enterprise,Portal,Billing,Critical,18,6,1,144,Treatment,1
+CASE0066,2025-11-01,Mid-Market,Chat,Data Quality,Low,15,5,0,107,Control,0
+CASE0067,2025-11-01,Small Business,Portal,Technical,Medium,17,6,1,139,Treatment,0
+CASE0068,2025-11-01,Enterprise,Chat,Integration,High,6,2,0,50,Control,0
+CASE0069,2025-11-01,Mid-Market,Portal,Access,Critical,8,3,0,64,Treatment,0
+CASE0070,2025-11-01,Small Business,Chat,Billing,Low,5,2,0,45,Control,0
+CASE0071,2025-11-01,Enterprise,Portal,Data Quality,Medium,7,3,0,59,Treatment,0
+CASE0072,2025-11-01,Mid-Market,Chat,Technical,High,14,6,1,124,Control,1
+CASE0073,2025-12-01,Enterprise,Email,Access,Low,12,5,0,92,Treatment,0
+CASE0074,2025-12-01,Mid-Market,Phone,Billing,Medium,14,6,0,106,Control,0
+CASE0075,2025-12-01,Small Business,Email,Data Quality,High,21,2,1,143,Treatment,1
+CASE0076,2025-12-01,Enterprise,Phone,Technical,Critical,5,3,0,49,Control,0
+CASE0077,2025-12-01,Mid-Market,Email,Integration,Low,2,2,0,30,Treatment,0
+CASE0078,2025-12-01,Small Business,Phone,Access,Medium,4,3,0,44,Control,0
+CASE0079,2025-12-01,Enterprise,Email,Billing,High,11,6,1,109,Treatment,1
+CASE0080,2025-12-01,Mid-Market,Phone,Data Quality,Critical,13,7,1,123,Control,1
+CASE0081,2025-12-01,Small Business,Email,Technical,Low,10,6,1,104,Treatment,0
+CASE0082,2025-12-01,Enterprise,Phone,Integration,Medium,12,0,0,72,Control,0
+CASE0083,2025-12-01,Mid-Market,Email,Access,High,19,3,1,137,Treatment,1
+CASE0084,2025-12-01,Small Business,Phone,Billing,Critical,21,4,1,151,Control,1
+CASE0085,2025-12-01,Enterprise,Email,Data Quality,Low,0,3,0,24,Treatment,0
+CASE0086,2025-12-01,Mid-Market,Phone,Technical,Medium,2,4,0,38,Control,0
+CASE0087,2025-12-01,Small Business,Email,Integration,High,9,7,1,103,Treatment,1
+CASE0088,2025-12-01,Enterprise,Phone,Access,Critical,11,8,1,117,Control,1
+CASE0089,2025-12-01,Mid-Market,Email,Billing,Low,8,0,0,52,Treatment,0
+CASE0090,2025-12-01,Small Business,Phone,Data Quality,Medium,10,1,0,66,Control,0
+CASE0091,2025-12-01,Enterprise,Email,Technical,High,17,4,1,131,Treatment,1
+CASE0092,2025-12-01,Mid-Market,Phone,Integration,Critical,19,5,1,145,Control,1
+CASE0093,2025-12-01,Small Business,Email,Access,Low,16,4,0,108,Treatment,0
+CASE0094,2025-12-01,Enterprise,Phone,Billing,Medium,0,5,0,32,Control,0
+CASE0095,2025-12-01,Mid-Market,Email,Data Quality,High,7,8,0,79,Treatment,1
+CASE0096,2025-12-01,Small Business,Phone,Technical,Critical,9,2,0,65,Control,0
+CASE0097,2025-12-01,Enterprise,Email,Integration,Low,6,1,0,46,Treatment,0
+CASE0098,2025-12-01,Mid-Market,Phone,Access,Medium,8,2,0,60,Control,0
+CASE0099,2025-12-01,Small Business,Email,Billing,High,15,5,1,125,Treatment,1
+CASE0100,2025-12-01,Enterprise,Phone,Data Quality,Critical,17,6,1,139,Control,1
+CASE0101,2025-12-01,Mid-Market,Email,Technical,Low,14,5,0,102,Treatment,0
+CASE0102,2025-12-01,Small Business,Phone,Integration,Medium,16,6,1,134,Control,0
+CASE0103,2025-12-01,Enterprise,Email,Access,High,5,2,0,45,Treatment,0
+CASE0104,2025-12-01,Mid-Market,Phone,Billing,Critical,7,3,0,59,Control,0
+CASE0105,2025-12-01,Small Business,Email,Data Quality,Low,4,2,0,40,Treatment,0
+CASE0106,2025-12-01,Enterprise,Phone,Technical,Medium,6,3,0,54,Control,0
+CASE0107,2025-12-01,Mid-Market,Email,Integration,High,13,6,1,119,Treatment,1
+CASE0108,2025-12-01,Small Business,Phone,Access,Critical,15,7,1,133,Control,1
+CASE0109,2026-01-01,Mid-Market,Chat,Technical,Medium,1,1,0,21,Treatment,0
+CASE0110,2026-01-01,Small Business,Portal,Integration,High,8,4,0,68,Control,0
+CASE0111,2026-01-01,Enterprise,Chat,Access,Critical,10,5,0,82,Treatment,0
+CASE0112,2026-01-01,Mid-Market,Portal,Billing,Low,7,4,0,63,Control,0
+CASE0113,2026-01-01,Small Business,Chat,Data Quality,Medium,9,5,0,77,Treatment,0
+CASE0114,2026-01-01,Enterprise,Portal,Technical,High,16,8,1,142,Control,1
+CASE0115,2026-01-01,Mid-Market,Chat,Integration,Critical,18,2,1,128,Treatment,1
+CASE0116,2026-01-01,Small Business,Portal,Access,Low,15,1,0,91,Control,0
+CASE0117,2026-01-01,Enterprise,Chat,Billing,Medium,17,2,0,105,Treatment,0
+CASE0118,2026-01-01,Mid-Market,Portal,Data Quality,High,6,5,0,62,Control,0
+CASE0119,2026-01-01,Small Business,Chat,Technical,Critical,8,6,1,94,Treatment,1
+CASE0120,2026-01-01,Enterprise,Portal,Integration,Low,5,5,0,57,Control,0
+CASE0121,2026-01-01,Mid-Market,Chat,Access,Medium,7,6,0,71,Treatment,0
+CASE0122,2026-01-01,Small Business,Portal,Billing,High,14,2,1,108,Control,1
+CASE0123,2026-01-01,Enterprise,Chat,Data Quality,Critical,16,3,1,122,Treatment,1
+CASE0124,2026-01-01,Mid-Market,Portal,Technical,Low,13,2,0,85,Control,0
+CASE0125,2026-01-01,Small Business,Chat,Integration,Medium,15,3,0,99,Treatment,0
+CASE0126,2026-01-01,Enterprise,Portal,Access,High,22,6,1,164,Control,1
+CASE0127,2026-01-01,Mid-Market,Chat,Billing,Critical,6,7,0,70,Treatment,1
+CASE0128,2026-01-01,Small Business,Portal,Data Quality,Low,3,6,0,51,Control,0
+CASE0129,2026-01-01,Enterprise,Chat,Technical,Medium,5,0,0,37,Treatment,0
+CASE0130,2026-01-01,Mid-Market,Portal,Integration,High,12,3,1,102,Control,1
+CASE0131,2026-01-01,Small Business,Chat,Access,Critical,14,4,1,116,Treatment,1
+CASE0132,2026-01-01,Enterprise,Portal,Billing,Low,11,3,0,79,Control,0
+CASE0133,2026-01-01,Mid-Market,Chat,Data Quality,Medium,13,4,0,93,Treatment,0
+CASE0134,2026-01-01,Small Business,Portal,Technical,High,20,7,1,158,Control,1
+CASE0135,2026-01-01,Enterprise,Chat,Integration,Critical,22,8,1,172,Treatment,1
+CASE0136,2026-01-01,Mid-Market,Portal,Access,Low,1,0,0,17,Control,0
+CASE0137,2026-01-01,Small Business,Chat,Billing,Medium,3,1,0,31,Treatment,0
+CASE0138,2026-01-01,Enterprise,Portal,Data Quality,High,10,4,0,78,Control,0
+CASE0139,2026-01-01,Mid-Market,Chat,Technical,Critical,12,5,1,110,Treatment,1
+CASE0140,2026-01-01,Small Business,Portal,Integration,Low,9,4,0,73,Control,0
+CASE0141,2026-01-01,Enterprise,Chat,Access,Medium,11,5,0,87,Treatment,0
+CASE0142,2026-01-01,Mid-Market,Portal,Billing,High,18,8,1,152,Control,1
+CASE0143,2026-01-01,Small Business,Chat,Data Quality,Critical,20,2,1,138,Treatment,1
+CASE0144,2026-01-01,Enterprise,Portal,Technical,Low,17,1,0,101,Control,0
+CASE0145,2026-02-01,Small Business,Phone,Access,High,7,4,0,45,Treatment,0
+CASE0146,2026-02-01,Enterprise,Email,Billing,Critical,9,5,0,77,Control,0
+CASE0147,2026-02-01,Mid-Market,Phone,Data Quality,Low,6,4,0,58,Treatment,0
+CASE0148,2026-02-01,Small Business,Email,Technical,Medium,8,5,0,72,Control,0
+CASE0149,2026-02-01,Enterprise,Phone,Integration,High,15,8,1,119,Treatment,0
+CASE0150,2026-02-01,Mid-Market,Email,Access,Critical,17,2,1,123,Control,1
+CASE0151,2026-02-01,Small Business,Phone,Billing,Low,14,1,0,86,Treatment,0
+CASE0152,2026-02-01,Enterprise,Email,Data Quality,Medium,16,2,0,100,Control,0
+CASE0153,2026-02-01,Mid-Market,Phone,Technical,High,5,5,0,39,Treatment,0
+CASE0154,2026-02-01,Small Business,Email,Integration,Critical,7,6,1,89,Control,1
+CASE0155,2026-02-01,Enterprise,Phone,Access,Low,4,5,0,52,Treatment,0
+CASE0156,2026-02-01,Mid-Market,Email,Billing,Medium,6,6,0,66,Control,0
+CASE0157,2026-02-01,Small Business,Phone,Data Quality,High,13,2,1,85,Treatment,0
+CASE0158,2026-02-01,Enterprise,Email,Technical,Critical,15,3,1,117,Control,1
+CASE0159,2026-02-01,Mid-Market,Phone,Integration,Low,12,2,0,80,Treatment,0
+CASE0160,2026-02-01,Small Business,Email,Access,Medium,14,3,0,94,Control,0
+CASE0161,2026-02-01,Enterprise,Phone,Billing,High,21,6,1,141,Treatment,0
+CASE0162,2026-02-01,Mid-Market,Email,Data Quality,Critical,5,7,0,65,Control,1
+CASE0163,2026-02-01,Small Business,Phone,Technical,Low,2,6,1,64,Treatment,0
+CASE0164,2026-02-01,Enterprise,Email,Integration,Medium,4,0,0,32,Control,0
+CASE0165,2026-02-01,Mid-Market,Phone,Access,High,11,3,1,79,Treatment,0
+CASE0166,2026-02-01,Small Business,Email,Billing,Critical,13,4,1,111,Control,1
+CASE0167,2026-02-01,Enterprise,Phone,Data Quality,Low,10,3,0,74,Treatment,0
+CASE0168,2026-02-01,Mid-Market,Email,Technical,Medium,12,4,0,88,Control,0
+CASE0169,2026-02-01,Small Business,Phone,Integration,High,19,7,1,135,Treatment,0
+CASE0170,2026-02-01,Enterprise,Email,Access,Critical,21,8,1,167,Control,1
+CASE0171,2026-02-01,Mid-Market,Phone,Billing,Low,0,0,0,12,Treatment,0
+CASE0172,2026-02-01,Small Business,Email,Data Quality,Medium,2,1,0,26,Control,0
+CASE0173,2026-02-01,Enterprise,Phone,Technical,High,9,4,0,55,Treatment,0
+CASE0174,2026-02-01,Mid-Market,Email,Integration,Critical,11,5,1,105,Control,1
+CASE0175,2026-02-01,Small Business,Phone,Access,Low,8,4,0,68,Treatment,0
+CASE0176,2026-02-01,Enterprise,Email,Billing,Medium,10,5,0,82,Control,0
+CASE0177,2026-02-01,Mid-Market,Phone,Data Quality,High,17,8,1,129,Treatment,0
+CASE0178,2026-02-01,Small Business,Email,Technical,Critical,19,2,1,133,Control,1
+CASE0179,2026-02-01,Enterprise,Phone,Integration,Low,16,1,0,96,Treatment,0
+CASE0180,2026-02-01,Mid-Market,Email,Access,Medium,0,2,0,20,Control,0
+CASE0181,2026-03-01,Enterprise,Portal,Data Quality,Critical,8,5,0,72,Treatment,0
+CASE0182,2026-03-01,Mid-Market,Chat,Technical,Low,5,4,0,53,Control,0
+CASE0183,2026-03-01,Small Business,Portal,Integration,Medium,7,5,0,67,Treatment,0
+CASE0184,2026-03-01,Enterprise,Chat,Access,High,14,8,1,132,Control,1
+CASE0185,2026-03-01,Mid-Market,Portal,Billing,Critical,16,2,1,118,Treatment,1
+CASE0186,2026-03-01,Small Business,Chat,Data Quality,Low,13,1,0,81,Control,0
+CASE0187,2026-03-01,Enterprise,Portal,Technical,Medium,15,2,0,95,Treatment,0
+CASE0188,2026-03-01,Mid-Market,Chat,Integration,High,22,5,1,160,Control,1
+CASE0189,2026-03-01,Small Business,Portal,Access,Critical,6,6,0,66,Treatment,1
+CASE0190,2026-03-01,Enterprise,Chat,Billing,Low,3,5,0,47,Control,0
+CASE0191,2026-03-01,Mid-Market,Portal,Data Quality,Medium,5,6,0,61,Treatment,0
+CASE0192,2026-03-01,Small Business,Chat,Technical,High,12,2,1,98,Control,1
+CASE0193,2026-03-01,Enterprise,Portal,Integration,Critical,14,3,1,112,Treatment,1
+CASE0194,2026-03-01,Mid-Market,Chat,Access,Low,11,2,0,75,Control,0
+CASE0195,2026-03-01,Small Business,Portal,Billing,Medium,13,3,0,89,Treatment,0
+CASE0196,2026-03-01,Enterprise,Chat,Data Quality,High,20,6,1,154,Control,1
+CASE0197,2026-03-01,Mid-Market,Portal,Technical,Critical,22,7,1,168,Treatment,1
+CASE0198,2026-03-01,Small Business,Chat,Integration,Low,1,6,1,59,Control,0
+CASE0199,2026-03-01,Enterprise,Portal,Access,Medium,3,0,0,27,Treatment,0
+CASE0200,2026-03-01,Mid-Market,Chat,Billing,High,10,3,0,74,Control,0
+CASE0201,2026-03-01,Small Business,Portal,Data Quality,Critical,12,4,1,106,Treatment,1
+CASE0202,2026-03-01,Enterprise,Chat,Technical,Low,9,3,0,69,Control,0
+CASE0203,2026-03-01,Mid-Market,Portal,Integration,Medium,11,4,0,83,Treatment,0
+CASE0204,2026-03-01,Small Business,Chat,Access,High,18,7,1,148,Control,1
+CASE0205,2026-03-01,Enterprise,Portal,Billing,Critical,20,8,1,162,Treatment,1
+CASE0206,2026-03-01,Mid-Market,Chat,Data Quality,Low,17,0,0,97,Control,0
+CASE0207,2026-03-01,Small Business,Portal,Technical,Medium,1,1,0,21,Treatment,0
+CASE0208,2026-03-01,Enterprise,Chat,Integration,High,8,4,0,68,Control,0
+CASE0209,2026-03-01,Mid-Market,Portal,Access,Critical,10,5,0,82,Treatment,0
+CASE0210,2026-03-01,Small Business,Chat,Billing,Low,7,4,0,63,Control,0
+CASE0211,2026-03-01,Enterprise,Portal,Data Quality,Medium,9,5,0,77,Treatment,0
+CASE0212,2026-03-01,Mid-Market,Chat,Technical,High,16,8,1,142,Control,1
+CASE0213,2026-03-01,Small Business,Portal,Integration,Critical,18,2,1,128,Treatment,1
+CASE0214,2026-03-01,Enterprise,Chat,Access,Low,15,1,0,91,Control,0
+CASE0215,2026-03-01,Mid-Market,Portal,Billing,Medium,17,2,0,105,Treatment,0
+CASE0216,2026-03-01,Small Business,Chat,Data Quality,High,6,5,0,62,Control,0

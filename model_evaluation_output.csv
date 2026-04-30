@@ -1,0 +1,2 @@
+model_name,accuracy,precision,recall,f1_score,roc_auc,test_records
+RandomForestClassifier,0.892,0.846,0.815,0.83,0.918,65

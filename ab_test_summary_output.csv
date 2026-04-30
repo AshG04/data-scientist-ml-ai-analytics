@@ -1,0 +1,3 @@
+experiment_group,total_cases,escalation_rate,sla_breach_rate,avg_resolution_time_hours,lift_vs_control
+Control,108,0.37,0.38,90.0,0.0
+Treatment,108,0.269,0.38,86.6,0.273
